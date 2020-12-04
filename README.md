@@ -1,7 +1,7 @@
-# AuE893: Robust Predictive Control
-This repository contains class work and practice example based on Model Predictive Control 
+# AuE893: Robust Predictive Control, summary of all work
 
-## [Final Project](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Final_project): Comparison of Stochastic Predictive Control Techniques Applied to Hybrid Energy System (Microgrid)
+## <p align="center"> [Final Project](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Final_project): Comparison of Stochastic Predictive Control Techniques Applied to Hybrid Energy System (Microgrid) </p>
+
 <p align="left">
   <img width="400" height="350"
        src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/Plantmodel.png">
