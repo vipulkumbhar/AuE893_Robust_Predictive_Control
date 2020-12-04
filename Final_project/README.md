@@ -4,7 +4,7 @@ A hybrid energy system on a small scale that integrates renewable energy sources
 
 ### 1] Nominal MPC
 
-![Watch the video](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/msmpcVideoFile.gif)
+![Watch the video](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/nmpcVideoFile.gif)
 
 ### 2] Uncertain MPC with Kalman filter based state estimator
 
