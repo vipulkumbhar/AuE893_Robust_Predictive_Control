@@ -49,7 +49,7 @@
   Figure: PID controller performance for system with time delay
 </p>
 
-For reference: 
+## For reference: 
 #### PID plant model
 <p align="center"> <img width="400" height="225" src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Homework_3/Result_plots/3bplantmodel.png" </p> 
 <p align="center">
