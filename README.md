@@ -16,8 +16,12 @@
 3] Multi-scenerio based MPC  
 4] Chance-constrained MPC  
 5] Tree-based MPC  
-
+  
+  
 ![Watch the video](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/tbmpcVideoFile.gif)
+<p align="left">
+  Figure: Hybrid microgrid plant model with tree-based MPC
+</p>
 
 ## [HW04](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Homework_4):
 ### Robust MPC methods
