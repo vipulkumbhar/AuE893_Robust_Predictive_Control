@@ -45,6 +45,6 @@ This repository contains class work and practice example based on Model Predicti
 </p>
 
 ## HW01: 
-1] Linear, non-linear models, Laplace domain transformations, linearization and descretization of plant models, state space realization 
-2] Time-varying linear quadratic problems, rate of change penalty 
-3] Steady-state Riccati equation 
+1] Linear, non-linear models, Laplace domain transformations, linearization and descretization of plant models, state space realization   
+2] Time-varying linear quadratic problems, rate of change penalty   
+3] Steady-state Riccati equation   
