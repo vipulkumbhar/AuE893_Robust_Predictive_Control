@@ -41,13 +41,27 @@
   Figure: MPC performance for system with time delay
 </p>
 
-### 1] PID
+### 2] PID
 <p align="center"> <img width="400" height="225" src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Homework_3/Result_plots/3bpidoutput.png" </p> 
 <p align="center"> <img width="400" height="225" src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Homework_3/Result_plots/3bpidinput.png"> </p>
 
 <p align="center">
-  Figure: MPC performance for system with time delay
+  Figure: PID controller performance for system with time delay
 </p>
+
+For reference: 
+#### PID plant model
+<p align="center"> <img width="400" height="225" src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Homework_3/Result_plots/3bplantmodel.png" </p> 
+<p align="center">
+  Figure: PID plant model
+</p>
+
+#### Ziegler–Nichols method to tune PID parameters
+<p align="center"> <img width="400" height="225" src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Homework_3/Result_plots/3bPID%20table.png" </p> 
+<p align="center">
+  Figure: ZN method to tune PID parameters
+</p>
+
 
 
 
