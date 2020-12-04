@@ -1,4 +1,4 @@
-# AuE893: Robust Predictive Control, summary of all work
+# <p align="center"> AuE893: Robust Predictive Control, summary of all work </p>
 
 ## <p align="center"> [Final Project](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Final_project): Comparison of Stochastic Predictive Control Techniques Applied to Hybrid Energy System (Microgrid) </p>
 
