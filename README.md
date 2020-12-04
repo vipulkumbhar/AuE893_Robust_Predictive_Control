@@ -6,7 +6,7 @@ This repository contains class work and practice example based on Model Predicti
   <img width="400" height="350"
        src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/Plantmodel.png">
 </p>
-<p align="center">
+<p align="left">
   Figure: Hybrid microgrid plant model
 </p>
 
