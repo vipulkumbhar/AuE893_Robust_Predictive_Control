@@ -3,7 +3,7 @@
 A hybrid energy system on a small scale that integrates renewable energy sources is called a microgrid. In order to consider, the uncertain nature of renewable energy sources, and to improve efficiency of the equipment, various energy management policies are developed. This project presents the approach of stochastic MPC techniques applied to deal with uncertainties in power demand and generation and focuses on the energy management of microgrid with the aim to meet consumer demand in an optimal, economic, and safe manner. A comparison on the application of different predictive control techniques is made based on the key performance indexes. The analysis helps us to evaluate the performance of each technique under similar setup.
 
 <p align="center">
-  <img width="400" height="400"
+  <img width="400" height="350"
        src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/Plantmodel.png">
 </p>
 <p align="center">
@@ -33,3 +33,12 @@ PS: For better quality pictures and videos: [Link](https://github.com/vipulkumbh
 ### 5] Chance-constrained MPC
 
 ![Watch the video](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/CCMPC_2020-12-02_14-26.gif)
+
+## <p align="center"> Comparison of Stochastic Predictive Control Techniques Applied to Hybrid Energy System (Microgrid) </p>
+<p align="center">
+  <img width="400" height="350"
+       src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/result_comparision.png">
+</p>
+<p align="center">
+  Figure: Comparison of Stochastic Predictive Control Techniques
+</p>
