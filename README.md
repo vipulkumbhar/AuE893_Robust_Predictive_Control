@@ -2,11 +2,11 @@
 
 ## <p align="center"> [Final Project](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Final_project): Comparison of Stochastic Predictive Control Techniques Applied to Hybrid Energy System (Microgrid) </p>
 
-<p align="left">
+<p align="center">
   <img width="400" height="350"
        src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/Plantmodel.png">
 </p>
-<p align="left">
+<p align="center">
   Figure: Hybrid microgrid plant model
 </p>
 
