@@ -3,10 +3,10 @@ This repository contains class work and practice example based on Model Predicti
 
 ## [HW04](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Homework_4):
 ### Robust MPC methods
-1] Bounding tube based state constraints for uncertain system
-2] MPC without disturbance
-3] MPC with disturbance
-4] MPC with (an ancillary) feedback controller
+1] Bounding tube based state constraints for uncertain system  
+2] MPC without disturbance  
+3] MPC with disturbance  
+4] MPC with (an ancillary) feedback controller  
 <p align="center">
   <img width="400" height="225" src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Homework_4/Result_plots/4b3_state_withfeedback.png">
 </p>
