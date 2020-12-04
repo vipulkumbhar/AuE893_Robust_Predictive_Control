@@ -1,6 +1,23 @@
 # AuE893: Robust Predictive Control
 This repository contains class work and practice example based on Model Predictive Control 
 
+## [Final Project](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Final_project): Comparison of Stochastic Predictive Control Techniques Applied to Hybrid Energy System (Microgrid)
+<p align="center">
+  <img width="200" height="175"
+       src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/Plantmodel.png">
+</p>
+<p align="center">
+  Figure: Hybrid microgrid plant model
+</p>
+
+1] Nominal MPC  
+2] Uncertain MPC with Kalman filter based state estimator  
+3] Multi-scenerio based MPC  
+4] Chance-constrained MPC  
+5] Tree-based MPC  
+
+![Watch the video](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/tbmpcVideoFile.gif)
+
 ## [HW04](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Homework_4):
 ### Robust MPC methods
 1] Bounding tube based state constraints for uncertain system  
