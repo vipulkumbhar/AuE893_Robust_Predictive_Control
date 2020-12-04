@@ -10,6 +10,7 @@
   Figure: Hybrid microgrid plant model
 </p>
 
+### MPC methods studied and compared for KPIs
 1] Nominal MPC  
 2] Uncertain MPC with Kalman filter based state estimator  
 3] Multi-scenerio based MPC  
