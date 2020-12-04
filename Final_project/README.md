@@ -25,4 +25,4 @@ A hybrid energy system on a small scale that integrates renewable energy sources
 ![Watch the video](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/CCMPC_2020-12-02_14-26.gif)
 
 
-
+Better quality pictures and videos: [Link](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/Team_7_Project_Presentation.pptx) 
