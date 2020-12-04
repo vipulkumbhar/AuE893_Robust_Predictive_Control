@@ -36,7 +36,7 @@ PS: For better quality pictures and videos: [Link](https://github.com/vipulkumbh
 
 ## <p align="center"> Comparison of Stochastic Predictive Control Techniques Applied to Hybrid Energy System (Microgrid) </p>
 <p align="center">
-  <img width="400" height="350"
+  <img width="550" height="350"
        src="https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/blob/main/Final_project/result_comparision.png">
 </p>
 <p align="center">
