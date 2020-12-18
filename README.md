@@ -57,9 +57,9 @@
   Figure: MPC performance for system with time delay
 </p>
 
-## [HW02](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Homework_2): 
-1] Nominal MPC problems
-2] Nominal MPC with Kalman filter based state estimators
+## [HW02](https://github.com/vipulkumbhar/AuE893_Robust_Predictive_Control/tree/main/Homework_2):   
+1] Nominal MPC problems  
+2] Nominal MPC with Kalman filter based state estimators  
 
 <p align="center">
   <img width="600" height="400"
